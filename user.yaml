@@ -1,0 +1,9 @@
+var:
+  last_build_time: 1575482172
+  option:
+    simplification: true
+  previously_selected_schema: jyutping
+  schema_access_time:
+    double_pinyin_flypy: 1576243321
+    jyutping: 1576738514
+    luna_pinyin: 1575000939
